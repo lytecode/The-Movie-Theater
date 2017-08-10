@@ -1,0 +1,36 @@
+
+body{
+	text-align: center;
+	background-color: whitesmoke;
+}
+
+h1{
+	text-decoration: 
+}
+
+ul{
+	list-style: none;
+}
+
+
+.well{
+	background-color: white;
+	text-align: center;
+}
+
+img{
+	padding: 10px;
+}
+
+.description{
+	padding-left: 30px;
+	//margin-left: 30px;
+	text-align: left;
+	float: left;
+	text-align: justify;
+}
+
+.form-control{
+	width: 50%;
+}
+
