@@ -5,7 +5,7 @@ body{
 
 header{
 	text-align: center;
-	color: #337ab7
+	color: #337ab7;
 }
 
 input{
@@ -47,4 +47,15 @@ footer{
 	color: #337ab7;
 }
 
+#navbar{
+	background-color: #252525;
+	width: auto;
+	padding: 30px;
+	color: #ea4c89; //white;
+	text-align: center;
+}
+
+h4{
+	color: white; //#337ab7
+}
 
